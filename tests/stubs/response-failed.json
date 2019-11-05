@@ -1,0 +1,7 @@
+{
+    "status": "fail",
+    "data": {
+        "title": "Coordinates",
+        "message": "Illegal format: must be latitude,longitude"
+    }
+}

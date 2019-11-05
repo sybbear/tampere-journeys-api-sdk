@@ -1,0 +1,27 @@
+{
+    "name": "vikingmaster/tampere-journeys-api-sdk",
+    "description": "PHP SDK for Tampere Journeys API",
+    "version": "0.1.0",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "ext-json": "*",
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vikingmaster\\TampereJourneysApiSdk\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Vikingmaster\\TampereJourneysApiSdk\\Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.4"
+    },
+    "scripts": {
+        "test-and-generate-cover": "vendor/bin/phpunit && rm -rf /c/Users/yaros/Projects/Yaroslav/php-packages/public/coverage && ln -sfnr build/coverage /c/Users/yaros/Projects/Yaroslav/php-packages/public/coverage"
+    }
+}

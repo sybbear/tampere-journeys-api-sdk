@@ -1,0 +1,218 @@
+{
+    "status": "success",
+    "data": {
+        "headers": {
+            "paging": {
+                "startIndex": 0,
+                "pageSize": 1,
+                "moreData": true
+            }
+        }
+    },
+    "body": [
+        {
+            "url": "http://178.217.134.14/journeys/api/1/journey-patterns/21450",
+            "routeUrl": "http://178.217.134.14/journeys/api/1/routes/21991",
+            "lineUrl": "http://178.217.134.14/journeys/api/1/lines/73",
+            "originStop": "http://178.217.134.14/journeys/api/1/stop-points/8524",
+            "destinationStop": "http://178.217.134.14/journeys/api/1/stop-points/8625",
+            "name": "Nokian asema C - Keho",
+            "direction": "1",
+            "stopPoints": [
+                {
+                    "url": "http://178.217.134.14/journeys/api/1/stop-points/8610",
+                    "location": "61.46852,23.51313",
+                    "name": "Viholanraitti",
+                    "shortName": "8610",
+                    "tariffZone": "C",
+                    "municipality": {
+                        "url": "http://178.217.134.14/journeys/api/1/municipalities/536",
+                        "shortName": "536",
+                        "name": "Nokia"
+                    }
+                },
+                {
+                    "url": "http://178.217.134.14/journeys/api/1/stop-points/8612",
+                    "location": "61.4686,23.52491",
+                    "name": "Eden",
+                    "shortName": "8612",
+                    "tariffZone": "C",
+                    "municipality": {
+                        "url": "http://178.217.134.14/journeys/api/1/municipalities/536",
+                        "shortName": "536",
+                        "name": "Nokia"
+                    }
+                },
+                {
+                    "url": "http://178.217.134.14/journeys/api/1/stop-points/8614",
+                    "location": "61.46547,23.5191",
+                    "name": "Vihola",
+                    "shortName": "8614",
+                    "tariffZone": "C",
+                    "municipality": {
+                        "url": "http://178.217.134.14/journeys/api/1/municipalities/536",
+                        "shortName": "536",
+                        "name": "Nokia"
+                    }
+                },
+                {
+                    "url": "http://178.217.134.14/journeys/api/1/stop-points/8616",
+                    "location": "61.46269,23.51658",
+                    "name": "Päivärinteentie",
+                    "shortName": "8616",
+                    "tariffZone": "C",
+                    "municipality": {
+                        "url": "http://178.217.134.14/journeys/api/1/municipalities/536",
+                        "shortName": "536",
+                        "name": "Nokia"
+                    }
+                },
+                {
+                    "url": "http://178.217.134.14/journeys/api/1/stop-points/8618",
+                    "location": "61.46067,23.51134",
+                    "name": "Räikäntie",
+                    "shortName": "8618",
+                    "tariffZone": "C",
+                    "municipality": {
+                        "url": "http://178.217.134.14/journeys/api/1/municipalities/536",
+                        "shortName": "536",
+                        "name": "Nokia"
+                    }
+                },
+                {
+                    "url": "http://178.217.134.14/journeys/api/1/stop-points/8620",
+                    "location": "61.45852,23.50982",
+                    "name": "Piilenmäenkatu",
+                    "shortName": "8620",
+                    "tariffZone": "C",
+                    "municipality": {
+                        "url": "http://178.217.134.14/journeys/api/1/municipalities/536",
+                        "shortName": "536",
+                        "name": "Nokia"
+                    }
+                },
+                {
+                    "url": "http://178.217.134.14/journeys/api/1/stop-points/8622",
+                    "location": "61.45741,23.50705",
+                    "name": "Pähkinämäentie",
+                    "shortName": "8622",
+                    "tariffZone": "C",
+                    "municipality": {
+                        "url": "http://178.217.134.14/journeys/api/1/municipalities/536",
+                        "shortName": "536",
+                        "name": "Nokia"
+                    }
+                },
+                {
+                    "url": "http://178.217.134.14/journeys/api/1/stop-points/8625",
+                    "location": "61.45617,23.5034",
+                    "name": "Keho",
+                    "shortName": "8625",
+                    "tariffZone": "C",
+                    "municipality": {
+                        "url": "http://178.217.134.14/journeys/api/1/municipalities/536",
+                        "shortName": "536",
+                        "name": "Nokia"
+                    }
+                }
+            ],
+            "journeys": [
+                {
+                    "url": "http://178.217.134.14/journeys/api/1/journeys/1059414",
+                    "journeyPatternUrl": "http://178.217.134.14/journeys/api/1/journey-patterns/21450",
+                    "departureTime": "00:10:00",
+                    "arrivalTime": "00:23:45",
+                    "headSign": "Keho",
+                    "directionId": "1",
+                    "wheelchairAccessible": false,
+                    "gtfs": {
+                        "tripId": "6092785034Y"
+                    },
+                    "dayTypes": [
+                        "saturday"
+                    ],
+                    "dayTypeExceptions": [
+                        {
+                            "from": "2019-12-06",
+                            "to": "2019-12-06",
+                            "runs": "yes"
+                        },
+                        {
+                            "from": "2020-01-01",
+                            "to": "2020-01-01",
+                            "runs": "yes"
+                        },
+                        {
+                            "from": "2019-12-07",
+                            "to": "2019-12-07",
+                            "runs": "no"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://178.217.134.14/journeys/api/1/journeys/1062432",
+                    "journeyPatternUrl": "http://178.217.134.14/journeys/api/1/journey-patterns/21450",
+                    "departureTime": "00:10:00",
+                    "arrivalTime": "00:23:30",
+                    "headSign": "Keho",
+                    "directionId": "1",
+                    "wheelchairAccessible": false,
+                    "gtfs": {
+                        "tripId": "6161625037Y"
+                    },
+                    "dayTypes": [
+                        "monday"
+                    ],
+                    "dayTypeExceptions": [
+                        {
+                            "from": "2019-12-02",
+                            "to": "2019-12-02",
+                            "runs": "no"
+                        },
+                        {
+                            "from": "2019-12-09",
+                            "to": "2019-12-09",
+                            "runs": "no"
+                        },
+                        {
+                            "from": "2019-12-16",
+                            "to": "2019-12-16",
+                            "runs": "no"
+                        },
+                        {
+                            "from": "2019-12-23",
+                            "to": "2019-12-23",
+                            "runs": "no"
+                        },
+                        {
+                            "from": "2019-12-30",
+                            "to": "2019-12-30",
+                            "runs": "no"
+                        },
+                        {
+                            "from": "2020-01-06",
+                            "to": "2020-01-06",
+                            "runs": "no"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://178.217.134.14/journeys/api/1/journeys/1059673",
+                    "journeyPatternUrl": "http://178.217.134.14/journeys/api/1/journey-patterns/21450",
+                    "departureTime": "00:40:00",
+                    "arrivalTime": "00:53:30",
+                    "headSign": "Keho",
+                    "directionId": "1",
+                    "wheelchairAccessible": false,
+                    "gtfs": {
+                        "tripId": "6094485035Y"
+                    },
+                    "dayTypes": [
+                        "sunday"
+                    ],
+                    "dayTypeExceptions": []
+                }
+            ]
+        }
+    ]
+}

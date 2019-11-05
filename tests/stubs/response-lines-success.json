@@ -1,0 +1,769 @@
+{
+    "status": "success",
+    "data": {
+        "headers": {
+            "paging": {
+                "startIndex": 0,
+                "pageSize": 151,
+                "moreData": false
+            }
+        }
+    },
+    "body": [
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/1",
+            "name": "1",
+            "description": "Vatiala - Pirkkala"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/1C",
+            "name": "1C",
+            "description": "Vatiala - Pirkkala (Kyösti)"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/1B",
+            "name": "1B",
+            "description": "Vatiala - Pirkkala (Vähäjärvi)"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/1A",
+            "name": "1A",
+            "description": "Vatiala - Pirkkala (lentoasema)"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/2",
+            "name": "2",
+            "description": "Rauhaniemi - Pyynikintori"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/3",
+            "name": "3",
+            "description": "Hervanta - Lentävänniemi"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/3B",
+            "name": "3B",
+            "description": "Lintuhytti - Lentävänniemi"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/3A",
+            "name": "3A",
+            "description": "Etelä - Hervanta - Lentävänniemi"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/3R",
+            "name": "3R",
+            "description": "Lentävänniemi - Keskustori"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/4",
+            "name": "4",
+            "description": "Länsi - Hervanta - Keskustori"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/4Y",
+            "name": "4Y",
+            "description": "Länsi-Hervanta - Keskustori"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/5",
+            "name": "5",
+            "description": "Tays - Vuores - Keskustori"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/6",
+            "name": "6",
+            "description": "Hermia-Pyynikintori"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/8",
+            "name": "8",
+            "description": "Atala - Haukiluoma"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/9A",
+            "name": "9A",
+            "description": "Annala (Maustekatu) - Keskustori"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/9B",
+            "name": "9B",
+            "description": "Annala (Kaipanen) - Keskustori"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/10",
+            "name": "10",
+            "description": "Kaukajärvi - Keskustori"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/11C",
+            "name": "11C",
+            "description": "Kyösti - Rahola"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/11B",
+            "name": "11B",
+            "description": "Lahdesjärvi - Rahola"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/11",
+            "name": "11",
+            "description": "Partola - Keskustori"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/12",
+            "name": "12",
+            "description": "Hallila - Keskustori"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/14",
+            "name": "14",
+            "description": "Pere - Ryydynpohja"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/14T",
+            "name": "14T",
+            "description": "Pere - Ryydynpohja"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/14R",
+            "name": "14R",
+            "description": "Pere - Ryydynpohja"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/14V",
+            "name": "14V",
+            "description": "Petsamo - Pere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/15",
+            "name": "15",
+            "description": "Järvensivu - Petsamo"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/17",
+            "name": "17",
+            "description": "Vehmainen - Kalkku"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/20R",
+            "name": "20R",
+            "description": "Keskustori - Lamminpää"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/20",
+            "name": "20",
+            "description": "Hikivuori - Lamminpää"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/21",
+            "name": "21",
+            "description": "Turtola - Tesoma"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/24",
+            "name": "24",
+            "description": "Hermia - Keskustori"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/25",
+            "name": "25",
+            "description": "Linnainmaa - Tahmela"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/26",
+            "name": "26",
+            "description": "Höytämö - Kaarila"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/27",
+            "name": "27",
+            "description": "Keskustori - Partola"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/28A",
+            "name": "28A",
+            "description": "Sorila - Siivikkala"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/28Y",
+            "name": "28Y",
+            "description": "Nurmi - Keskustori"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/28",
+            "name": "28",
+            "description": "Sorila - Siivikkala"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/28B",
+            "name": "28B",
+            "description": "Ruutana - Siivikkala"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/28C",
+            "name": "28C",
+            "description": "Suinula - Ruutana - Siivikkala"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/29A",
+            "name": "29A",
+            "description": "Risso - Pitkäniemi"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/29B",
+            "name": "29B",
+            "description": "Risso - Kalkku"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/29R",
+            "name": "29R",
+            "description": "Linnainmaa - Pitkäniemi"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/29",
+            "name": "29",
+            "description": "Linnainmaa - Pitkäniemi"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/31",
+            "name": "31",
+            "description": "Korkinmäki - Pyynikintori"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/32",
+            "name": "32",
+            "description": "TAYS - Hervanta - Hatanpää-Tampella"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/33",
+            "name": "33",
+            "description": "Keskustori - Lahdesjärvi"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/33Y",
+            "name": "33Y",
+            "description": "Keskustori - Lahdesjärvi mt"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/35",
+            "name": "35",
+            "description": "Multisilta- Keskustori"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/36",
+            "name": "36",
+            "description": "TAYS - Lentävänniemi"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/37",
+            "name": "37",
+            "description": "Risso-Ryydynpohja"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/38",
+            "name": "38",
+            "description": "Atala - TTY"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/38R",
+            "name": "38R",
+            "description": "Atala - Rusko"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/40C",
+            "name": "40C",
+            "description": "Tampere - Kangasala - Tiihala"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/40B",
+            "name": "40B",
+            "description": "Tampere - Kangasala - Mobilia"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/40",
+            "name": "40",
+            "description": "Tampere - Kangasala"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/40A",
+            "name": "40A",
+            "description": "Tampere - Kangasala - Pikonlinna"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/41",
+            "name": "41",
+            "description": "Kangasala - Ponsa - Orivesi"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/42KP",
+            "name": "42KP",
+            "description": "Tampere - Sahalahti - Saarionen - Pakkala"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/42O",
+            "name": "42O",
+            "description": "Orivesi - Eräjärvi - Pohja"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/42P",
+            "name": "42P",
+            "description": "Tampere - Sahalahti  - Pakkala"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/42S",
+            "name": "42S",
+            "description": "Tampere - Sahalahti - Saarionen - Pakkala"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/42K",
+            "name": "42K",
+            "description": "Tampere - Pakkala - Kivisalmi - Kuhmalahti kk"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/42",
+            "name": "42",
+            "description": "Tampere - Sahalahti - Kuhmalahti - Kuhmoinen"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/43",
+            "name": "43",
+            "description": "Tampere - Pälkäne - Luopioinen - Kyynärö"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/43T",
+            "name": "43T",
+            "description": "Tampere - Pälkäne - Luopioinen - Kyynärö"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/43S",
+            "name": "43S",
+            "description": "Tampere - Kangasala - Pälkäne"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/44A",
+            "name": "44A",
+            "description": "Kangasala - Alanko - Valkeakoski"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/44H",
+            "name": "44H",
+            "description": "Kangasala - HAMK - Valkeakoski"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/44",
+            "name": "44",
+            "description": "Kangasala - Valkeakoski"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/45S",
+            "name": "45S",
+            "description": "Kangasala-Kangasala asema-Lentola"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/45P",
+            "name": "45P",
+            "description": "Kangasala-Kangasala asema-Lentola"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/45",
+            "name": "45",
+            "description": "Kangasala-Kangasala asema-Lentola"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/45SS",
+            "name": "45SS",
+            "description": "Kangasala-Kangasala asema-Lentola"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/45SP",
+            "name": "45SP",
+            "description": "Kangasala-Kangasala asema-Lentola"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/46J",
+            "name": "46J",
+            "description": "Kangasala - Ruutana"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/46",
+            "name": "46",
+            "description": "Kangasala - Ruutana"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/49",
+            "name": "49",
+            "description": "Orivesi - Eräjärvi - Pohja"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/50",
+            "name": "50",
+            "description": "Lempäälä - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/50A",
+            "name": "50A",
+            "description": "Lempäälä (Haurala) - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/50B",
+            "name": "50B",
+            "description": "Lempäälä (Laasonportti) - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/50C",
+            "name": "50C",
+            "description": "Lempäälä- Vanattara - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/50V",
+            "name": "50V",
+            "description": "Lempäälä - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/51",
+            "name": "51",
+            "description": "Valkeakoski - Ideapark - Moottoritie - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/51I",
+            "name": "51I",
+            "description": "Valkeakoski - Ideapark - Moottoritie - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/52I",
+            "name": "52I",
+            "description": "Ideapark - Kulju - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/52",
+            "name": "52",
+            "description": "Valkeakoski - Ideapark - Kulju - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/53",
+            "name": "53",
+            "description": "Valkeakoski - Lempäälä kk - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/53K",
+            "name": "53K",
+            "description": "Valkeakoski - Lempäälä - Ideapark - Kulju"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/53T",
+            "name": "53T",
+            "description": "Valkeakoski - Lempäälä kk - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/54x",
+            "name": "54x",
+            "description": "Tampere - Urjala"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/54",
+            "name": "54",
+            "description": "Tampere - Urjala"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/55K",
+            "name": "55K",
+            "description": "Vesilahti - Lempäälä - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/55",
+            "name": "55",
+            "description": "Vesilahti - Lempäälä - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/55T",
+            "name": "55T",
+            "description": "Vesilahti-Lempäälä-Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/55L",
+            "name": "55L",
+            "description": "Vesilahti - Lempäälä - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/56",
+            "name": "56",
+            "description": "Lempäälä - Säijä"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/57",
+            "name": "57",
+            "description": "Lastunen - Lempäälä - Lastunen"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/58S",
+            "name": "58S",
+            "description": "Sääksjärven koulu  Hervanta"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/58",
+            "name": "58",
+            "description": "Hervanta - Sääksjärvi"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/63",
+            "name": "63",
+            "description": "Pirkkala - Äijälä"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/65",
+            "name": "65",
+            "description": "Nokia - Pirkkala - Hermia"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/65x",
+            "name": "65x",
+            "description": "Pirkkala - Hervanta"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/65xx",
+            "name": "65xx",
+            "description": "Pirkkala - Hervanta"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/70",
+            "name": "70",
+            "description": "Nokia - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/70Y",
+            "name": "70Y",
+            "description": "Nokia - Rahola - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/71",
+            "name": "71",
+            "description": "Tampere - Nokia - Keho"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/71S",
+            "name": "71S",
+            "description": "Tampere - Nokia - Keho"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/71K",
+            "name": "71K",
+            "description": "Tampere - Nokia - Keho"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/71SK",
+            "name": "71SK",
+            "description": "Tampere- Nokia - Keho"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/72",
+            "name": "72",
+            "description": "Tervasuo - Nokia - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/73",
+            "name": "73",
+            "description": "Harjuniitty - Nokia - Keho"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/73K",
+            "name": "73K",
+            "description": "Harjuniitty - Nokia (paloasema)"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/74",
+            "name": "74",
+            "description": "Myllyhaka - vt12 - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/77",
+            "name": "77",
+            "description": "Nokia - Tottijärvi"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/77x",
+            "name": "77x",
+            "description": "Nokia - Tottijärvi"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/78x",
+            "name": "78x",
+            "description": "Nokia - Sarkola"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/78",
+            "name": "78",
+            "description": "Nokia - Sarkola"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/79Li",
+            "name": "79Li",
+            "description": "Tampere - Moottoritie - Nokia - Siuro - Linnavuori"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/79Si",
+            "name": "79Si",
+            "description": "Tampere - Moottoritie - Nokia - Siuro - Linnavuori"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/79B",
+            "name": "79B",
+            "description": "Tampere - Nokia - Linnavuori -Purso - Siuro- Nokia"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/79",
+            "name": "79",
+            "description": "Tampere - Moottoritie - Nokia - Siuro - Linnavuori"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/79A",
+            "name": "79A",
+            "description": "Tampere - Nokia - Siuro - Linnavuori - Purso"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/80",
+            "name": "80",
+            "description": "Irjala-Ylöjärvi-Haavisto"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/80Y",
+            "name": "80Y",
+            "description": "Keskustori -Vuorentausta - Haavisto"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/81",
+            "name": "81",
+            "description": "Keskustori - Vuorentausta - Asuntila"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/83",
+            "name": "83",
+            "description": "Metsäkylä- Matkatie"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/84V",
+            "name": "84V",
+            "description": "Lakiala - Matkatie"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/84",
+            "name": "84",
+            "description": "Lakiala - Matkatie"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/85V",
+            "name": "85V",
+            "description": "Tampere-Ylöjärvi-Kuru"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/85",
+            "name": "85",
+            "description": "Tampere-Ylöjärvi-Kuru"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/85P",
+            "name": "85P",
+            "description": "Kuru - Parkkuu - Ylöjärvi - Tampere"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/86",
+            "name": "86",
+            "description": "Siivikkala - Matkatie"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/86x",
+            "name": "86x",
+            "description": "Siivikkala - Matkatie"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/87",
+            "name": "87",
+            "description": "Matkatie - Viljakkala - Manni"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/87K",
+            "name": "87K",
+            "description": "Matkatie - Viljakkala - Manni"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/90Mx",
+            "name": "90Mx",
+            "description": "Pyynikintori - 9-tie - Teisko"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/90",
+            "name": "90",
+            "description": "Pyynikintori - Teisko"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/90T",
+            "name": "90T",
+            "description": "Pyynikintori - Teisko kko - Teisko"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/90Tx",
+            "name": "90Tx",
+            "description": "Pyynikintori - 9-tie - Teisko"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/90M",
+            "name": "90M",
+            "description": "Pyynikintori - Maisansalo - Teisko"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/91D",
+            "name": "91D",
+            "description": "Sorila - Diabeteskeskus - Aitoniemi"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/91",
+            "name": "91",
+            "description": "Sorila - Aitoniemi"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/92A",
+            "name": "92A",
+            "description": "Sorila - Iso-Karano - Viitapohja - Sorila"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/92B",
+            "name": "92B",
+            "description": "Sorila - Viitapohja - Iso-Kartano - Sorila"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/92BK",
+            "name": "92BK",
+            "description": "Sorila - Viitapohja - Kämmenniemi - Sorila"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/95",
+            "name": "95",
+            "description": "Tampere-Orivesi"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/95R",
+            "name": "95R",
+            "description": "Tampere-Orivesi"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/95X",
+            "name": "95X",
+            "description": "Tampere-Orivesi"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/100",
+            "name": "100",
+            "description": "Rautatieasema - Särkänniemi"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/115",
+            "name": "115",
+            "description": "Keskustori - Pispalanharju"
+        },
+        {
+            "url": "http://178.217.134.14/journeys/api/1/lines/137",
+            "name": "137",
+            "description": "Tasanne-Takahuhdin koulu"
+        }
+    ]
+}
