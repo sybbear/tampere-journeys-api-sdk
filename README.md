@@ -82,9 +82,5 @@ while ($fetch) {
     $fetch      = $response->getPaging()->hasMoreData();
 
     $entries = array_merge($entries, $response->getLines());
-
-    if ($startIndex >= 100) {
-        break;
-    }
 }
 ```
