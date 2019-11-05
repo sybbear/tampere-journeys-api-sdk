@@ -1,8 +1,9 @@
 {
     "name": "vikingmaster/tampere-journeys-api-sdk",
     "description": "PHP SDK for Tampere Journeys API",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "type": "library",
+    "keywords": ["tampere", "journeys", "api", "php", "sdk", "smart-city", "bus"],
     "require": {
         "guzzlehttp/guzzle": "^6.3",
         "ext-json": "*",
