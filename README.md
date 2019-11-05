@@ -67,20 +67,18 @@ Some of the responses can be long, so multiple requests might be needed to fetch
 /** @var array|\Vikingmaster\TampereJourneysApiSdk\Dto\Line[] $entries */
 $entries = [];
 
+$fetch      = true;
 $startIndex = 0;
-$fetch     = true;
-
 while ($fetch) {
     try {
         $response = $request->setStartIndex($startIndex)->send();
+        $entries  = array_merge($entries, $response->getLines());
     } catch (\Exception $e) {
          //Handle exception / resend the request
         break;
     }
 
-    $startIndex = $response->getPaging()->getPageSize();
     $fetch      = $response->getPaging()->hasMoreData();
-
-    $entries = array_merge($entries, $response->getLines());
+    $startIndex = $response->getPaging()->getPageSize();
 }
 ```
