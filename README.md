@@ -3,7 +3,7 @@
 This is an unofficial SDK release for [Tampere Journeys API](http://wiki.itsfactory.fi/index.php/Journeys_API).
 
 # Installation
-Install using composer: `composer require vikingmaster/tampere`
+Install using composer: `composer require vikingmaster/tampere-journeys-api-sdk`
 
 # Usage
 Creating an API Client instance. Available config parameters: 
